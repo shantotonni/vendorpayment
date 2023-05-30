@@ -1,0 +1,6 @@
+.btn-group, .btn-group>.btn:first-child{
+	width: 100% !important;
+}
+#errormsg{
+	color: red;
+}

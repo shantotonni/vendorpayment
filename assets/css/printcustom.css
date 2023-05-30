@@ -1,0 +1,18 @@
+.css_text{
+	text-align:center;
+	background-color:#F4DDDD;
+}
+
+.css_border{
+	border-bottom: 1px solid black;
+	width:17%;
+	
+}
+
+.expenses{
+	text-align:center;
+	font-family: Arial;
+    font-weight: bold;
+    font-size: 13px;
+}
+
